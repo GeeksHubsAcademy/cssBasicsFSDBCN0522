@@ -1,0 +1,32 @@
+
+p::selection {
+    color: white;
+    background-color: yellow;
+}
+
+p:hover {
+
+    background-color: red;
+}
+
+#contenedorGeneral .padre #prueba {
+    font-size: 14em;
+}
+
+p {
+    color: blue;
+}
+
+.plastico {
+    color: green;
+}
+
+p {
+    color: peru;
+}
+
+a {
+    all: unset;
+    cursor: pointer;
+    font-weight: bolder;
+}
